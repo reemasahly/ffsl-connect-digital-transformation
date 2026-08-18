@@ -48,11 +48,11 @@ Key flows demonstrated in the prototype: player registration (multi-step, with d
 
 | Admin Dashboard | Player Registration |
 | :---: | :---: |
-| ![Admin Dashboard](./prototype_screenshots/admin-dashboard.png) | ![Player Registration](./prototype_screenshots/player-registration.png) |
+| ![Admin Dashboard](./prototype_screenshots/admin-dashboard.png) | ![Player Dashboard](./prototype_screenshots/player-dashboard.png) |
 
 | Transfer Request | Tournament Management |
 | :---: | :---: |
-| ![Transfer Request](./prototype_screenshots/transfer-request.png) | ![Tournament Management](./prototype_screenshots/tournament-management.png) |
+| ![Transfer Request](./prototype_screenshots/player-transfer-flow-1.png) | ![Tournament Management](./prototype_screenshots/tournament-flow-1.png) |
 
 ---
 
@@ -65,11 +65,25 @@ This project covers strategic analysis, prototype design, and transformation met
 ## Repo Structure
 
 ```text
-├── report/
-│   └── Football-Federation-of-SL-Digital-Transformation-Report.pdf
+ffsl-connect-digital-transformation/
 ├── prototype_screenshots/
 │   ├── admin-dashboard.png
-│   ├── player-registration.png
-│   ├── transfer-request.png
-│   └── tournament-management.png
+│   ├── club-manager-dashboard.png
+│   ├── fan-dashboard.png
+│   ├── player-dashboard.png
+│   ├── player-registeration-1.png
+│   ├── player-registeration-2.png
+│   ├── player-registeration-3.png
+│   ├── player-registeration-4.png
+│   ├── player-registeration-5.png
+│   ├── player-transfer-flow-1.png
+│   ├── player-transfer-flow-2.png
+│   ├── player-transfer-flow-3.png
+│   ├── player-transfer-flow-4.png
+│   ├── tournament-flow-1.png
+│   ├── tournament-flow-2.png
+│   ├── tournament-flow-3.png
+│   └── tournament-flow-4.png
+├── report/
+│   └── Football-Federation-of-SL-Digital-Transformation-Report.pdf
 └── README.md
